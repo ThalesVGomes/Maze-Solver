@@ -9,7 +9,7 @@ Second line - line_of_origin_point column_of_origin_point
 Third line - line_of_destination_point column_of_destination_point
 Maze -> where 0 = empty space and -1 = wall
 
-Example of file format:
+Example of file format:  
     6  11  
     1  1  
     6  11  
