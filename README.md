@@ -10,15 +10,15 @@ Third line - line_of_destination_point column_of_destination_point
 Maze -> where 0 = empty space and -1 = wall
 
 Example of file format:
-    6  11
-    1  1
-    6  11
-    0  0 -1 -1  0  0  0  0  0  0  0
-    0 -1  0 -1 -1  0 -1  0 -1 -1  0
-    0  0 -1  0  0  0 -1  0  0  0  0
-    0 -1  0 -1  0  0  0 -1 -1  0  0
-    0  0  0 -1  0 -1  0  0  0 -1  0
-    0 -1  0  0  0  0  0  0 -1  0  0
+    6  11  
+    1  1  
+    6  11  
+    0  0 -1 -1  0  0  0  0  0  0  0  
+    0 -1  0 -1 -1  0 -1  0 -1 -1  0  
+    0  0 -1  0  0  0 -1  0  0  0  0  
+    0 -1  0 -1  0  0  0 -1 -1  0  0  
+    0  0  0 -1  0 -1  0  0  0 -1  0  
+    0 -1  0  0  0  0  0  0 -1  0  0  
     
 After reading the file the algorithm finds a path between
 the origin and the destination and prints it on screen.
