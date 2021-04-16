@@ -24,4 +24,4 @@ After reading the file the algorithm finds a path between
 the origin and the destination and prints it on screen.
 
 You can save the solution in a .txt file changing the argument
-'export' in the main function to True.
+'export' in the main function to True (run_maze_solver(export=True)).
