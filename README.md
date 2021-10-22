@@ -1,5 +1,6 @@
-# Maze-Solver
-### Just pure python with no external dependencies
+## Maze-Solver
+
+__Just pure python with no external dependencies__
 
 Find a path (if exists) between two points in a maze.
 
