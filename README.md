@@ -14,12 +14,7 @@ Example of file format:
     6  11  
     1  1  
     6  11  
-    0  0 -1 -1  0  0  0  0  0  0  0  
-    0 -1  0 -1 -1  0 -1  0 -1 -1  0  
-    0  0 -1  0  0  0 -1  0  0  0  0  
-    0 -1  0 -1  0  0  0 -1 -1  0  0  
-    0  0  0 -1  0 -1  0  0  0 -1  0  
-    0 -1  0  0  0  0  0  0 -1  0  0  
+    ![image](https://user-images.githubusercontent.com/64560385/138382839-0e412300-b599-48f6-8355-c889583da5e0.png)
     
 After reading the file the algorithm finds a path between
 the origin and the destination and prints it on screen.
